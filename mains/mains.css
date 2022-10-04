@@ -136,8 +136,6 @@ button:hover,button:focus {
         justify-content: center;
 
         max-width: 600px;
-
-        border-radius: 10px 10px 10px 0;
     }
 
     div > img:nth-child(1) {
